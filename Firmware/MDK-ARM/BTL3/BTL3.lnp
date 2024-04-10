@@ -1,0 +1,28 @@
+--cpu=Cortex-M4.fp
+"btl3\startup_stm32f407xx.o"
+"btl3\main.o"
+"btl3\stm32f4xx_it.o"
+"btl3\stm32f4xx_hal_msp.o"
+"btl3\stm32f4xx_hal_dac.o"
+"btl3\stm32f4xx_hal_dac_ex.o"
+"btl3\stm32f4xx_hal_rcc.o"
+"btl3\stm32f4xx_hal_rcc_ex.o"
+"btl3\stm32f4xx_hal_flash.o"
+"btl3\stm32f4xx_hal_flash_ex.o"
+"btl3\stm32f4xx_hal_flash_ramfunc.o"
+"btl3\stm32f4xx_hal_gpio.o"
+"btl3\stm32f4xx_hal_dma_ex.o"
+"btl3\stm32f4xx_hal_dma.o"
+"btl3\stm32f4xx_hal_pwr.o"
+"btl3\stm32f4xx_hal_pwr_ex.o"
+"btl3\stm32f4xx_hal_cortex.o"
+"btl3\stm32f4xx_hal.o"
+"btl3\stm32f4xx_hal_exti.o"
+"btl3\stm32f4xx_hal_tim.o"
+"btl3\stm32f4xx_hal_tim_ex.o"
+"btl3\stm32f4xx_hal_uart.o"
+"btl3\system_stm32f4xx.o"
+--library_type=microlib --strict --scatter "BTL3\BTL3.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "BTL3.map" -o BTL3\BTL3.axf

@@ -1,0 +1,10 @@
+E:\BTL_nhung\BTL_Nhung\BTL_Nhung\bin\Debug\BTL_Nhung.exe.config
+E:\BTL_nhung\BTL_Nhung\BTL_Nhung\bin\Debug\BTL_Nhung.exe
+E:\BTL_nhung\BTL_Nhung\BTL_Nhung\bin\Debug\BTL_Nhung.pdb
+E:\BTL_nhung\BTL_Nhung\BTL_Nhung\obj\Debug\BTL_Nhung.csproj.AssemblyReference.cache
+E:\BTL_nhung\BTL_Nhung\BTL_Nhung\obj\Debug\BTL_Nhung.Form1.resources
+E:\BTL_nhung\BTL_Nhung\BTL_Nhung\obj\Debug\BTL_Nhung.Properties.Resources.resources
+E:\BTL_nhung\BTL_Nhung\BTL_Nhung\obj\Debug\BTL_Nhung.csproj.GenerateResource.cache
+E:\BTL_nhung\BTL_Nhung\BTL_Nhung\obj\Debug\BTL_Nhung.csproj.CoreCompileInputs.cache
+E:\BTL_nhung\BTL_Nhung\BTL_Nhung\obj\Debug\BTL_Nhung.exe
+E:\BTL_nhung\BTL_Nhung\BTL_Nhung\obj\Debug\BTL_Nhung.pdb
